@@ -43,7 +43,6 @@
 ## About
 As a member of the team [fr334aks](https://github.com/fr334aks) , i have had the opportunity to play in alot of CTFs, some local and some international. DFIR, Crypto, OSINT and web are some of the categories i enjoy solving. Hope you learn a trick or two from this repo. Enjoy!
 
-<p align="right">(<a href="#top">back to top</a>)</p
 
 <!-- CONTACT -->
 ## Contact
@@ -52,5 +51,4 @@ kelvin karibah - [mystic_kev](https://twitter.com/mystic_kev)
 
 Project Link: [https://github.com/mystickev/CTFwriteups](https://github.com/mystickev/CTFwriteups)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
