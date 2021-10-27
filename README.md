@@ -41,7 +41,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-As a member of the team fr334aks , i have had the opportunity to play in alot of CTFs, some local and some international. DFIR, Crypto, OSINT amd web are some of the categories i enjoy solving. Hope you learn a trick or two from this repo. Enjoy!
+As a member of the team fr334aks , i have had the opportunity to play in alot of CTFs, some local and some international. DFIR, Crypto, OSINT and web are some of the categories i enjoy solving. Hope you learn a trick or two from this repo. Enjoy!
 
 <p align="right">(<a href="#top">back to top</a>)</p
 
