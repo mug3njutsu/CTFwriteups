@@ -12,7 +12,7 @@ How often do you read steganography research papers?, the spectogram looks nice.
 
 ## Summary
 This challenge was about Pixel value differencing where LSB substitution and PVD are both applied. In PVD process, non-overlapping 3x3 pixel blocks or a combination of 3x3 and 2x2 blocks are used in a raster pattern(side to side) from top to bottom 
-Extraxtion is done using a generated log file from embedding that contains data locations in the steg Image
+Extraction is done using a generated log file during embedding, that contains data locations in the steg Image
 ```
 ah{redacted}
 ```
