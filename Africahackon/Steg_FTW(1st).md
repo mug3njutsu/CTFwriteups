@@ -1,10 +1,9 @@
-# CTF Name: Challenge name
+# CTF Name: Steg_FTW
 
-![date](https://img.shields.io/badge/date-01.01.1970-brightgreen.svg)  
+![date](https://img.shields.io/badge/date-10.11.2021-brightgreen.svg)  
 ![solved in time of CTF](https://img.shields.io/badge/solved-in%20time%20of%20CTF-brightgreen.svg)  
-![warmup category](https://img.shields.io/badge/category-warmup-lightgrey.svg)
-![score](https://img.shields.io/badge/score-100-blue.svg)
-![solves](https://img.shields.io/badge/solves-1000-brightgreen.svg)
+![warmup category](https://img.shields.io/badge/category-Steg-lightgrey.svg)
+![score](https://img.shields.io/badge/score-75-blue.svg)
 
 ## Description
 i heard you likes memes XD » hint=John Cena :)
