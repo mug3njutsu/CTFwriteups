@@ -28,8 +28,7 @@ open the pvdextract.py in a code editor and replace the logfile name with ours(e
 - protest.png - image with concealed message
 - cipher = output_file
 This will spit the flag
-
-  [spectro](./files%20spec.png)
+[spectro](./files/spec.png)
 
 ##Takeaways
 With the rich playground of digital streams and formats, more uncommon steg methods are always being invented.
