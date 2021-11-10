@@ -23,4 +23,4 @@ Doing a bit of research on digital ink steg, led me to one java tool. The DIIT p
 ![image info](../files/diit.png)
 
 ## Takeaways
-With the rich playground of digital streams and formats, more uncommon steg methods are always being invented.
+With the rich playground of digital streams and formats, more uncommon steg methods are always being invented. Its important to keep track by searching for new tricks
