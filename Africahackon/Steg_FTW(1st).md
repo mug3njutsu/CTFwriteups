@@ -8,7 +8,7 @@
 ## Description
 i heard you likes memes XD » hint=John Cena :)
 ## Attached files
-- [chall1.png](./files/chal1.png)
+- [chall1.png](./files/chall1.png)
 
 ## Summary
 This challenge was about digital Invisible ink..which is a method used to conceal a message through steganography. The idea behind it is replacing some information with a concealed message through a cover object. This makes any digital stream a viable carrier.
