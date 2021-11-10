@@ -19,9 +19,8 @@ ah{redacted}
 ```
 
 ## Detailed solution
-Doing a bit of research on digital ink steg, led me to one java tool that could successfuly decrypt digital ink steg. The DIIT project can be found at http://diit.sourceforge.net/.
-Download the tool and load the image.
-I used the battle steg algorithm which successfully decrypted the concealed image to a text file
+Doing a bit of research on digital ink steg, led me to one java tool that could successfuly decrypt digital ink steg. The DIIT project can be found at http://diit.sourceforge.net/.Download the tool and load the image.I used the battle steg algorithm which successfully decrypted the concealed image to a text file
+
 ![image info](./files/diit.png)
 
 ## Takeaways
