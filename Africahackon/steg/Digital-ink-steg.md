@@ -11,14 +11,14 @@ i heard you likes memes XD » hint=John Cena :)
 - [chall1.png](../files/chall1.png)
 
 ## Summary
-This challenge was about digital Invisible ink..which is a method used to conceal a message through steganography. The idea behind it is replacing some information with a concealed message through a cover object. This makes any digital stream a viable carrier.
+This challenge was about digital Invisible ink..which is a steg method used to conceal a message. The idea behind it is replacing some information with a concealed message through a cover object. This makes any digital stream a viable carrier.
 ## Flag
 ```
 ah{redacted}
 ```
 
 ## Detailed solution
-Doing a bit of research on digital ink steg, led me to one java tool that could successfuly decrypt digital ink steg. The DIIT project can be found at http://diit.sourceforge.net/.Download the tool and load the image.I used the battle steg algorithm which successfully decrypted the concealed image to a text file
+Doing a bit of research on digital ink steg, led me to one java tool. The DIIT project can be found at http://diit.sourceforge.net/.Download the tool and load the image.I used the battle steg algorithm which successfully decrypted the concealed image to a text file
 
 ![image info](../files/diit.png)
 
