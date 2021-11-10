@@ -28,7 +28,9 @@ open the pvdextract.py in a code editor and replace the logfile name with ours(e
 - protest.png - image with concealed message
 - cipher = output_file
 This will spit the flag
-[spectro](./files/spec.png)
+  
+![image info](./files/spec.png)
 
 ##Takeaways
-With the rich playground of digital streams and formats, more uncommon steg methods are always being invented.
+  
+From the paper **The traditional steganography methods with Pixel Value Differencing (PVD) usually only deal with the PVD in the horizontal direction but ignore the vertical one. In this paper, the cover image is divided into 2×2 nonoverlapping blocks, then the modulus function method is used in horizontal direction and the simple PVD method is used in vertical direction for steganography.**
