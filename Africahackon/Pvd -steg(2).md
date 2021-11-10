@@ -8,7 +8,7 @@
 ## Description
 How often do you read steganography research papers?, the spectogram looks nice.what does it hide (75pts)
 ## Attached files
-- [chall1.png](./files/chall1.png)
+- [spectro.zip](./files/spectro.zip)
 
 ## Summary
 This challenge was about Pixel value differencing where LSB substitution and PVD are both applied. In PVD process, non-overlapping 3x3 pixel blocks or a combination of 3x3 and 2x2 blocks are used in a raster pattern(side to side) from top to bottom 
