@@ -35,7 +35,7 @@ dd if=demo.bin of=demo.lzma bs=1 skip=128 count=2097088
 - skip= skip to offset(precision)
 
 ```
-After dd ges me the lzma, my plan is to extract the lzma with unlzma tool but the file had other plans for me, it was corrupted.
+After dd gets me the lzma, my plan is to extract the lzma with unlzma tool but the file had other plans for me, it was corrupted.
 I took hours trying to figure out why i was getting a corrupt image.
 Finally i decided to start at the basics and understand what kind of file i was working on. i had previously ignored the output from file command, which ultimately helped me figure the challenge out
 This is output from the file command
