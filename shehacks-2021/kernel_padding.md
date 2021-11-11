@@ -1,4 +1,4 @@
-# CTF Name: Challenge name
+# CTF Name: Kernel Padding
 
 ![date](https://img.shields.io/badge/date-11.11.2021-brightgreen.svg)  
 ![solved in time of CTF](https://img.shields.io/badge/solved-in%20time%20of%20CTF-brightgreen.svg)  
