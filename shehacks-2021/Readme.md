@@ -4,3 +4,5 @@ I and my teammate [@ikuamike](https://twitter.com/ikuamike?lang=en) participated
 - [kernel padding](./kernel_padding.md)
 - [Drivers](./Drivers.md)
 - [Firmware Version](./Firmware-Version.md)
+
+Be sure to visit my teammate's [blog](https://blog.ikuamike.io/posts/2021/hackfest-2021-ctf/) for his share of writeups.
