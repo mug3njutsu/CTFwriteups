@@ -52,6 +52,6 @@ This was the output i got and you can see that our demo.lzma file is now a legit
 
 You can see the start of padding selected in the first image and displayed on the second image. And that was our flag.
 
-##Takeaways
+## Takeaways
 
 As always told, enumeration and information gathering is always important to understand the target before going for the hit ;). Which was the case in this challenge.
