@@ -45,7 +45,7 @@ As you can see, we are dealing with an u-boot legacy uImage. A bit of research o
 
 ![image_info](./files/dumpimage.png)
 
-This was the output i got and you can see that our demo.lzma file is now a legit OS Kernel Image. Now we look for the padded section and find the offset. My go to editor for editing hexdump is bless editor. i opened the kernel in bless and used the search option to look for "00000000000000000000" ,yeap!..A lot of zeroes. Padding is where zeroes are added to input with the aim to obtain equality or just CTF :)
+This was the output i got and you can see that our demo.lzma file is now a legit OS Kernel Image. Now we look for the padded section and find the offset. My go to editor for editing hexdump is bless editor. i opened the kernel in bless and used the search option to look for "00000000000000000000" ,yeap!..A lot of zeroes. Padding is where zeroes are added to input with the aim to obtain equality, or just CTF :)
 ![image_info](./files/bless.png)
 
 ![image_info](./files/offset.png)
