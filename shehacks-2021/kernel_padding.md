@@ -50,7 +50,7 @@ This was the output i got and you can see that our demo.lzma file is now a legit
 
 ![image_info](./files/offset.png)
 
-You can see the start of padding selected in the first image and displayed on the second image. And that was our flag.
+You can see the start of padding selected in the first image and its offset displayed on the second image. And that was our flag.
 
 ## Takeaways
 
