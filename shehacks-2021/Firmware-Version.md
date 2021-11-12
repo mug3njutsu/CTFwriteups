@@ -1,6 +1,6 @@
 # CTF Name: Firmware Version
 
-![date](https://img.shields.io/badge/date-01.01.1970-brightgreen.svg)  
+![date](https://img.shields.io/badge/date-11.11.2021-brightgreen.svg)  
 ![solved in time of CTF](https://img.shields.io/badge/solved-in%20time%20of%20CTF-brightgreen.svg)  
 ![Forensic category](https://img.shields.io/badge/category-Forensic-lightgrey.svg)
 ![score](https://img.shields.io/badge/score-300-blue.svg)
