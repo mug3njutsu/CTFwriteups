@@ -49,6 +49,4 @@ As a member of the team [fr334aks](https://github.com/fr334aks) , i have had the
 
 kelvin karibah - [mystic_kev](https://twitter.com/mystic_kev)
 
-Project Link: [https://github.com/mystickev/CTFwriteups](https://github.com/mystickev/CTFwriteups)
-
 
